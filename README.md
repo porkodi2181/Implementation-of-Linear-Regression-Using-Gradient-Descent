@@ -71,6 +71,7 @@ pre=scaler.inverse_transform(prediction)
 print (data.head)
 
 print(f"Predicted value: {pre}")
+```
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
