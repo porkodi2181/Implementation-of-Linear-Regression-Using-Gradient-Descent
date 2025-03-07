@@ -74,9 +74,10 @@ print(f"Predicted value: {pre}")
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
-![WhatsApp Image 2025-03-07 at 09 29 14_eed525f4](https://github.com/user-attachments/assets/049ee9a9-66ca-493e-bd0e-3b2a826ed1ce)
+
 ![WhatsApp Image 2025-03-07 at 09 31 22_a5c6910d](https://github.com/user-attachments/assets/44935836-5b37-4bb4-84c8-e3124df74600)
+![WhatsApp Image 2025-03-07 at 09 29 14_eed525f4](https://github.com/user-attachments/assets/049ee9a9-66ca-493e-bd0e-3b2a826ed1ce)
+
 
 
 
